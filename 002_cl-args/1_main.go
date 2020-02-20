@@ -16,5 +16,5 @@ func main() {
 }
 
 // Prints a string from the command line by
-// taking each piece from the list and appending
+// taking each argument from the list and appending
 // it to s with a separator.
